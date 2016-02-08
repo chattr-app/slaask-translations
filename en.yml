@@ -1,0 +1,31 @@
+# team_name is the name of the team, don't translate it.
+displayed_name: "%{team_name} Support"
+
+# Text displayed in the title of the widget
+#   - Online
+window_title: "How can I help you?"
+#   - Offline
+offline_title: "Drop us a line!"
+
+# Greetings messages displayed automatically
+#   - Online
+online_greetings: "Hello, welcome on our website! How can I help you?"
+#   - Offline
+offline_greetings: "Hello! We're offline, but drop us your email and we'll get back to you as soon as possible!"
+
+# Widget and Message input content
+online_input_content: "Enter your message here"
+
+# Email input when widget is in offline mode
+offline_email_content: "Enter your email here"
+
+# Subject input when widget is in offline mode
+offline_object_content: "Email object here"
+
+# Message input when widget is in offline mode
+offline_message_content: "Enter your message here"
+
+# Submit button when widget is in offline mode
+offline_submit_content: "Send email"
+
+offline_submit_thanks: "Thank you for your email, We'll answer as fast as possible !"

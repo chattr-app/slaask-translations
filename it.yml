@@ -1,0 +1,33 @@
+# team_name is the name of the team, don't translate it.
+displayed_name: "%{team_name} Support"
+
+# Text displayed in the title of the widget
+#   - Online
+window_title: "Come possiamo aiutarti?"
+#   - Offline
+offline_title: "Lascia un messaggio!"
+
+# Greetings messages displayed automatically
+#   - Online
+online_greetings: "Ciao! Benvenuto/a! Come posso aiutarti?"
+#   - Offline
+offline_greetings: "Ciao! Lasciaci un messaggio e ti risponderemo il prima possibile!"
+
+# Widget and Message input content
+online_input_content: "Scrivi qui il tuo messaggio"
+
+# Email input when widget is in offline mode
+offline_email_content: "Inserisci il tuo indirizzo e-mail"
+
+# Subject input when widget is in offline mode
+offline_object_content: "Oggetto e-mail"
+
+# Message input when widget is in offline mode
+offline_message_content: "Scrivi qui il tuo messaggio"
+
+# Submit button when widget is in offline mode
+offline_submit_content: "Invia e-mail"
+
+offline_submit_thanks: "Grazie per la tua e-mail, ti risponderemo il prima possibile!"
+
+offline_submit_thanks: ""

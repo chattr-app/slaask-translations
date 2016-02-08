@@ -1,0 +1,31 @@
+# team_name is the name of the team, don't translate it.
+displayed_name: ""
+
+# Text displayed in the title of the widget
+#   - Online
+window_title: ""
+#   - Offline
+offline_title: ""
+
+# Greetings messages displayed automatically
+#   - Online
+online_greetings: ""
+#   - Offline
+offline_greetings: ""
+
+# Widget and Message input content
+online_input_content: ""
+
+# Email input when widget is in offline mode
+offline_email_content: ""
+
+# Subject input when widget is in offline mode
+offline_object_content: ""
+
+# Message input when widget is in offline mode
+offline_message_content: ""
+
+# Submit button when widget is in offline mode
+offline_submit_content: ""
+
+offline_submit_thanks:
